@@ -1,0 +1,7 @@
+[
+    {"id":101,"name":"Tom Jones","author":"Henry Fielding","price":1250, "publishDate":"01/08/1985"},
+    {"id":102,"name":"Pride and Prejudice","author":"Jane Austen","price":1200, "publishDate":"07/25/1990"},
+    {"id":103,"name":"Le Rouge et le Noir","author":"Stendhal","price":1000, "publishDate":"05/12/2012"},
+    {"id":104,"name":"David Copperfield","author":"Balzac", "price":90, "publishDate":"02/01/2016"},
+    {"id":105,"name":"Madame Bovary","author":"Charles Dickens", "price":80, "publishDate":"01/01/2018"}
+]
